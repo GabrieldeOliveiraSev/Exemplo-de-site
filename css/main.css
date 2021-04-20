@@ -14,7 +14,7 @@ ul {
     height: 60px;
 }
 
-main, .content {
+main, content {
     margin: 0 auto;
     width: 980px;
     position: relative;
@@ -153,6 +153,8 @@ button.slick-next {
     left:22%;
     top: 90%;
     left: 46%;
+    
+
 }
 
 .slick-dots li {
@@ -181,6 +183,7 @@ li.slick-active button {
 .texto-destaque p {
     color: #9a9a9a;
     font-size: 15px;
+<<<<<<< HEAD
 }
 
 .col-3 {
@@ -284,4 +287,6 @@ cursor: pointer;
 .footer p {
     width: 90%;
     text-align: left;
+=======
+>>>>>>> parent of 9d32a33 (Inclusão da tabela de imagens do site)
 }
